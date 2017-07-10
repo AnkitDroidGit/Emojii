@@ -1,0 +1,2 @@
+# Emojii
+Emojis without JNI
